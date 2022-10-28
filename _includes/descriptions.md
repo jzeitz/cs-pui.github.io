@@ -532,6 +532,19 @@ _Excerpt_ Spelman College invites applications for a tenure-track position at th
 
 ------------
 
+### University of Mary Washington
+{: #umw}
+
+_Excerpt_ The University of Mary Washington invites applications for a lecturer of computer science to begin August 16, 2023. Our close-knit team of nine faculty specializes in working with eager undergraduate students in small classes and in one-on-one mentoring settings. Professors get the opportunity to teach a variety of computer science subjects and also to work hands-on with selected students on research projects of their choosing. We encourage innovative pedagogy, place value on research in computer science education, and foster a teamwork approach to teaching. The normal teaching load is three sections per semester in small classes. Instructors will be expected to engage in professional development and perform service in support of the students, the program, and the institution. 
+
+- Posting will close **December 31, 2022**
+- Fredericksburg, VA. USA.
+
+[Full Job Posting](https://careers.umw.edu/postings/12360){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### University of St. Thomas 
 {: #stthomas}
 
