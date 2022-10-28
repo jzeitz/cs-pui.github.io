@@ -45,6 +45,7 @@
 | [Union College](#union) | Schenectady, NY | 11/21/2022| 
 | [Eastern Michigan University](#emu-cs) | Ypsilanti, MI | 11/30/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
+| [University of Mary Washington](#umw) | Fredericksburg, VA | 12/31/2022 |
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | open until filled |
